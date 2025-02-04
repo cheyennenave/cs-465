@@ -11,6 +11,7 @@ var handlebars = require('hbs');
 
 var app = express();
 
+
 // view engine setup
 app.set('views', path.join(__dirname, 'app_server', 'views'));
 
